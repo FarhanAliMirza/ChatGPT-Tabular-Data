@@ -21,3 +21,5 @@ Alternatively, you could do this from inside the Jupyter notebook (or Python scr
 
 import os
 os.environ["OPENAI_API_KEY"] = "..."
+
+HI there this is a change
